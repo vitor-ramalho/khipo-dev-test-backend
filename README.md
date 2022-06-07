@@ -27,6 +27,8 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+Use only Pinterest images in requests [https://br.pinterest.com/](https://br.pinterest.com/)
+
 ## Run
 
 Run the application and import the API.postman_colletion.json for browse endpoints.
