@@ -27,4 +27,8 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## Run
+
+Run the application and import the API.postman_colletion.json for browse endpoints.
+
+See [https://github.com/vitor-ramalho/khipo-devtest-front](https://github.com/vitor-ramalho/khipo-devtest-front) for the frontend Integration
